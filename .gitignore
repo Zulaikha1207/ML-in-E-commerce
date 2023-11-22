@@ -10,3 +10,6 @@
 
 # Mac OS-specific storage files
 .DS_Store
+
+# Jupyter notebook artifacts
+.ipynb_checkpoints/
