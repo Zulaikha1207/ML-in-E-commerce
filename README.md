@@ -1,7 +1,7 @@
 ## Ecommerce Classifier
 
 ### Description
-The Ecommerce Classifier is a Python-based machine learning project that predicts the category of products on an e-commerce platform. The logistic regression model uses product titles, reviews, and ratings as input features to classify products into predefined categories.
+The Ecommerce Classifier is a supervised machine learning project that predicts the category of products on an e-commerce platform. The logistic regression model uses product titles, reviews, and ratings as input features to classify products into predefined categories.
 
 ### Features
 - Data Integration: Product data and review data are integrated and variations in column order and misspelled categories is taken care of
