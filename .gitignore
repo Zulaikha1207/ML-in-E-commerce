@@ -13,3 +13,6 @@
 
 # Jupyter notebook artifacts
 .ipynb_checkpoints/
+
+src/data/__pycache__/
+
