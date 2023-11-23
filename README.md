@@ -32,5 +32,5 @@ The Ecommerce Classifier is a Python-based machine learning project that predict
 `pip install -r requirements.txt`
 
 #### Usage
-Run the ecommerce script
+Run the ecommerce script:
 `python src/ecommerce_analysis.py`
